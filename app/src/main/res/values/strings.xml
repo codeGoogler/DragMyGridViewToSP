@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">拖拽GridView</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="drawer_btn_rss">自定义管理</string>
+    <string name="subscribe_my_category">我的频道</string>
+<string name="subscribe_more_category">更多频道</string>
+<string name="subscribe_manager_category_info">单击增删频道</string>
+<string name="subscribe_manager_category_info_2">单击增删频道，长按拖拽排序</string>
+    <string name="content_draw_text">拖拽可自定义显示快捷方式</string>
+</resources>
